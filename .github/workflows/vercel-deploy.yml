@@ -7,7 +7,7 @@ env:
 on:
   push:
     branches:
-      - imsi_action
+      - imsi-action
 
 
 jobs:
